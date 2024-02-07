@@ -34,6 +34,10 @@ In future versions of this project, I plan to incorporate JavaScript to make the
 
 - [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
 
+**GitHub Pages**
+
+- [Link to the project on GitHub Pages](https://melvar1.github.io/se_project_aroundtheus/)
+
 **Images**
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
