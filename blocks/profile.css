@@ -95,15 +95,34 @@
     width: 100%;
   }
 
+  .profile__header {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0;
+    text-align: center;
+  }
+
   .profile__description {
     width: 100%;
-    text-align: center;
     margin-top: 14px;
     margin-bottom: 36px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0;
+    text-align: center;
   }
 
   .profile__add-button {
     margin: 0;
-    width: 70%;
+    width: 282px;
+  }
+
+  .profile__edit-button {
+    width: 18px;
+    height: 18px;
   }
 }
