@@ -44,3 +44,9 @@ In future versions of this project, I plan to incorporate JavaScript to make the
 ![Webpage](./images/demo/webpage.png)
 ![Card Images](./images/demo/cards.png)
 ![Mobile View](./images/demo/mobile-view.png)
+
+**Project Video Overview**
+
+- [Part 1](https://www.loom.com/share/e67840e6cec34e11bf0314bfea917f3d?sid=6f836772-1cb0-4ea0-8c1e-ce09c7cbeb2a)
+- [Part 2](https://www.loom.com/share/293343cd972d47b48a10ed9b6fb901e2?sid=1fe3d13f-1904-4698-a0d3-d3eb9ad74cdb)
+- [Part 3](https://www.loom.com/share/4367703d500e49bebac043ead8f8ba5c?sid=c8d1722a-31a2-4fe9-a590-502d403b20c1)
