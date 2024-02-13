@@ -40,6 +40,7 @@ In future versions of this project, I plan to incorporate JavaScript to make the
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+![Project Design](./images/demo/figma.png)
+![Webpage](./images/demo/webpage.png)
+![Card Images](./images/demo/cards.png)
+![Mobile View](./images/demo/mobile-view.png)
