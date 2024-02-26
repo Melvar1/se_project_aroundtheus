@@ -70,7 +70,7 @@
   margin-left: auto;
   border: 2px solid #ffffff;
   border-radius: 2px;
-  transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out; /* add transition to default state so it looks more natural/better */
   cursor: pointer;
 }
 
