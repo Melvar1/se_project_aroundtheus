@@ -1,0 +1,124 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  padding: 0 19px;
+  background: rgba(0, 0, 0, 0.5);
+  /* display: none; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .modal__opened {
+  display: flex;
+    justify-content: center;
+  align-items: center;
+} */
+
+.modal__container {
+  position: relative;
+  color: black;
+  padding: 36px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.modal__close {
+  background-image: url("../images/close.svg");
+  border: none;
+  position: absolute;
+  top: -45px;
+  right: -45px;
+  background-color: transparent;
+  width: 40px;
+  height: 40px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  cursor: pointer;
+}
+
+.modal__title {
+  margin: 0;
+  width: 310px;
+  height: 23px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29px;
+  letter-spacing: 0;
+  text-align: left;
+}
+
+.modal__form {
+  display: flex;
+  flex-direction: column;
+  border: 0;
+}
+
+.modal__input {
+  border: 0;
+  width: 358px;
+  height: 14px;
+  margin-top: 54px;
+  margin-bottom: 13px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0;
+  text-align: left;
+}
+
+.modal__input-line {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  flex-grow: 1;
+}
+
+.modal__button {
+  background-color: black;
+  border: none;
+  color: white;
+  width: 358px;
+  height: 50.15px;
+  border-radius: 2px;
+  margin-top: 48px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 630px) {
+  .modal__container {
+    width: 282px;
+    height: 322px;
+  }
+
+  .modal__title {
+    width: 238px;
+    height: 22px;
+    size: 18px;
+    line-height: 21.78px;
+  }
+
+  .modal__input {
+    width: 238px;
+    height: 27px;
+  }
+
+  .modal__button {
+    width: 238px;
+    height: 46px;
+  }
+
+  .modal__close {
+    width: 26px;
+    height: 26px;
+    right: 5px;
+  }
+}
